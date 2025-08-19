@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koustav Kundu</h1>
-<h3 align="center">Engineering Student | Competitive Programmer | Full Stack Developer</h3>
+<h3 align="center">Competitive Programmer | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+solving+problems+in+a+creative+way;Trying+to+learn+new+technologies!&center=true&width=500&height=45">
