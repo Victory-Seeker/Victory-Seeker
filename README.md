@@ -1,5 +1,25 @@
+<h1 align="center">Hi 👋, I'm Koustav Kundu</h1>
+<h3 align="center">Engineering Student | Competitive Programmer | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+solving+problems+in+a+creative+way;Trying+to+learn+new+technologies!&center=true&width=500&height=45">
+</p>
+
+
 # 💫 About Me:
-✨ **About Me**  <br>Hi! I'm **Koustav Kundu**, a passionate **Computer Science undergrad** at **Jalpaiguri Government Engineering College**. I'm deeply into **Data Structures & Algorithms**, **competitive programming**, and building **real-world projects**.<br>---<br>🌱 **I’m Learning**<br>- System Design  <br>- Competitive Programming  <br>- Open-source Contributions<br>---<br>🚀 **Goals**<br>- Contribute to meaningful open-source projects  <br>- Crack SDE internships at top tech companies  <br>- Keep growing as a problem-solver and software engineer<br>---<br>📫 **Connect with Me**<br>- [🏆 LeetCode](https://leetcode.com/u/koustav_kundu/)  <br>- [⚡ Codeforces](https://codeforces.com/profile/Koustav_Kundu)  <br>- [🔥 CodeChef](https://www.codechef.com/users/koustav_2004)  <br>- [💚 GeeksforGeeks](https://www.geeksforgeeks.org/user/koustav_2004/)<br>
+✨ **About Me**  <br>Hi! I'm **Koustav Kundu**, a passionate **Computer Science undergrad** at **Jalpaiguri Government Engineering College**. I'm deeply into **Data Structures & Algorithms**, **competitive programming**, and building **real-world projects**.<br>---<br>🌱 **I’m Learning**<br>- System Design  <br>- Competitive Programming  <br>- Open-source Contributions<br>---<br>🚀 **Goals**<br>- Contribute to meaningful open-source projects  <br>- Crack SDE internships at top tech companies  <br>- Keep growing as a problem-solver and software engineer<br>---<br>
+
+---
+### ✨ Coding Profiles
+ <a href="https://leetcode.com/u/koustav_kundu/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/koustav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Koustav_Kundu" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
 
 
 ## 🌐 Socials:
@@ -18,5 +38,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Victory-Seeker&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victory-Seeker&label=Profile%20views&color=blue&style=flat" alt="najir83" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
